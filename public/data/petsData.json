@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Bella",
+    "species": "Dog",
+    "age": 3,
+    "description": "A friendly Labrador who loves playing fetch and cuddling up after a long day of adventures.",
+    "imageUrl": "/images/dog2.jpg",
+    "adoptionFee": 50,
+    "behaviorTags": ["Friendly", "Playful", "Loves Kids"],
+    "contactInfo": {
+      "name": "Jane Doe",
+      "phone": "+123 456 7890",
+      "email": "janedoe@example.com"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Max",
+    "species": "Dog",
+    "age": 5,
+    "description": "An energetic Border Collie who enjoys agility training and playing with other dogs.",
+    "imageUrl": "/images/dog2.avif",
+    "adoptionFee": 75,
+    "behaviorTags": ["Energetic", "Loves Outdoors", "Good with Other Dogs"],
+    "contactInfo": {
+      "name": "John Smith",
+      "phone": "+987 654 3210",
+      "email": "johnsmith@example.com"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "species": "Dog",
+    "age": 2,
+    "description": "A sweet Beagle who loves to explore the outdoors and sniff around new places.",
+    "imageUrl": "/images/dog3.avif",
+    "adoptionFee": 40,
+    "behaviorTags": ["Curious", "Loves to Explore", "Affectionate"],
+    "contactInfo": {
+      "name": "Sarah Johnson",
+      "phone": "+111 222 3333",
+      "email": "sarahjohnson@example.com"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Lucy",
+    "species": "Dog",
+    "age": 4,
+    "description": "A playful Golden Retriever who loves swimming and playing with children.",
+    "imageUrl": "/images/dog4.jpg",
+    "adoptionFee": 60,
+    "behaviorTags": ["Playful", "Good with Kids", "Water Lover"],
+    "contactInfo": {
+      "name": "Mark Lee",
+      "phone": "+444 555 6666",
+      "email": "marklee@example.com"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Rocky",
+    "species": "Dog",
+    "age": 6,
+    "description": "A loyal German Shepherd who is protective and loves guarding the house.",
+    "imageUrl": "/images/dog.webp",
+    "adoptionFee": 80,
+    "behaviorTags": ["Protective", "Loyal", "Intelligent"],
+    "contactInfo": {
+      "name": "Emily Davis",
+      "phone": "+777 888 9999",
+      "email": "emilydavis@example.com"
+    }
+  }
+]
